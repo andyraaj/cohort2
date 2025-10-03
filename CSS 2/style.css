@@ -1,0 +1,33 @@
+@font-face {
+    font-family: google;
+    src: url(./4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2);
+}
+@font-face {
+    font-family: ppl;
+    src: url(./Beautiful\ People\ Personal\ Use.ttf);
+}
+@font-face {
+    font-family: shery;
+    src: url(./NeueMachina-Light_gwWCZxVuQl.ttf);
+}
+h1{
+    font-family: shery;
+    font-size: 50px;
+    background: pink;
+    ;
+}
+#box1{
+    width: 200px;
+    height: 100vh;
+    background: linear-gradient(to left bottom, black 20%, gold);
+    margin: 50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px grey;         
+    border: 5px solid black;
+    font-family: google;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    font-size: 30px;
+    
+}
